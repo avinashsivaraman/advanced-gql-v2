@@ -8,8 +8,54 @@
       "avatar": "http",
       "createdAt": 1571213104370,
       "id": "Z2hlvDmLOSRZGebC_Z_aA"
+    },
+    {
+      "email": "asivara6@asu.edu",
+      "password": "123456789",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1590717122860,
+      "id": "aUDCl2pgks7z6nCsoP5RZ"
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "message": "Hello from the author",
+      "author": "aUDCl2pgks7z6nCsoP5RZ",
+      "createdAt": 1591317282740,
+      "id": "xw5d_z3pCe06VUp4Qap0F"
+    },
+    {
+      "message": "Hello from the author",
+      "author": "aUDCl2pgks7z6nCsoP5RZ",
+      "createdAt": 1591317312754,
+      "id": "6PDNOpe86uPz2zAoJ1BTq"
+    },
+    {
+      "message": "Hello from the author",
+      "author": "aUDCl2pgks7z6nCsoP5RZ",
+      "createdAt": 1591317329445,
+      "id": "HNnj7dcsFBT3iQpm9RUA1"
+    },
+    {
+      "message": "Hello from the author Avi",
+      "author": "aUDCl2pgks7z6nCsoP5RZ",
+      "createdAt": 1591317343116,
+      "id": "qXQZpypv1Cqf_vJLND2AZ"
+    },
+    {
+      "message": "Hello from the author Avi",
+      "author": "aUDCl2pgks7z6nCsoP5RZ",
+      "createdAt": 1591317355480,
+      "id": "tJ4FfzqqyyWCcblmvgSBx"
+    },
+    {
+      "message": "Hello from the author Avi",
+      "author": "aUDCl2pgks7z6nCsoP5RZ",
+      "createdAt": 1591317870888,
+      "id": "62xF0nsqla4h_JhL01XRI"
+    }
+  ],
   "settings": []
 }
